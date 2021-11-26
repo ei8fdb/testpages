@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 26 Nov 2021 14:55:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[this is page 4]]></title>
+            <guid>85583effb4154f88a91db6899a5049d3</guid>
+            <pubDate>Fri, 26 Nov 2021 14:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[this is page 4.
+its got text.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[this is page 3]]></title>
+            <guid>c8af371cebb446718342714dec99a50f</guid>
+            <pubDate>Fri, 26 Nov 2021 14:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[this is page 3.
+its got text.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[this is page 2]]></title>
+            <guid>cfddfd512d00454b890caa416b2d920c</guid>
+            <pubDate>Fri, 26 Nov 2021 14:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[this is page 2.
+its got text.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[this is page 1]]></title>
+            <guid>599c69bf78e1426a832ec8818afc9230</guid>
+            <pubDate>Fri, 26 Nov 2021 14:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[this is page 1.
+its got text.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
